@@ -1,0 +1,88 @@
+{
+  "order_counter": 1,
+  "products": [
+    {
+      "id": 1,
+      "name": "One Piece Luffy Figure",
+      "price": 25000,
+      "discount_percent": 10,
+      "category": "Figures",
+      "image_url": "https://m.media-amazon.com/images/I/71c2M+XwXHL._AC_SL1500_.jpg",
+      "description": "One Piece Luffy Action Figure",
+      "sku": "Item-0001",
+      "is_top_selling": true,
+      "created_at": "2023-10-27T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Naruto Shippuden T-Shirt",
+      "price": 15000,
+      "discount_percent": 0,
+      "category": "Clothing",
+      "image_url": "https://m.media-amazon.com/images/I/71g+z0Xp2QL._AC_SL1500_.jpg",
+      "description": "Naruto Anime T-Shirt",
+      "sku": "Item-0002",
+      "is_top_selling": false,
+      "created_at": "2023-10-27T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Demon Slayer Tanjiro Keychain",
+      "price": 5000,
+      "discount_percent": 20,
+      "category": "Accessories",
+      "image_url": "https://m.media-amazon.com/images/I/61oZz+RzLOL._AC_SL1500_.jpg",
+      "description": "Demon Slayer Keychain",
+      "sku": "Item-0003",
+      "is_top_selling": true,
+      "created_at": "2023-10-27T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Spy x Family Anime Poster",
+      "price": 8000,
+      "discount_percent": 0,
+      "category": "Posters",
+      "image_url": "https://m.media-amazon.com/images/I/81k+3w2iPJL._AC_SL1500_.jpg",
+      "description": "Spy x Family Wall Poster",
+      "sku": "Item-0004",
+      "is_top_selling": false,
+      "created_at": "2023-10-27T10:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Gintama Gin-chan Mug",
+      "price": 12000,
+      "discount_percent": 15,
+      "category": "Accessories",
+      "image_url": "https://m.media-amazon.com/images/I/71j86i2wI-L._AC_SL1500_.jpg",
+      "description": "Gintama Sakata Gintoki Mug",
+      "sku": "Item-0005",
+      "is_top_selling": true,
+      "created_at": "2023-10-27T10:00:00Z"
+    }
+  ],
+  "orders": [],
+  "categories": [
+    { "id": 1, "name": "Figures" },
+    { "id": 2, "name": "Clothing" },
+    { "id": 3, "name": "Accessories" },
+    { "id": 4, "name": "Posters" }
+  ],
+  "settings": {
+    "kbz": "09 123 456 789",
+    "aya": "09 987 654 321",
+    "wave": "09 555 666 777"
+  },
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@test.com",
+      "phone": "09123456789",
+      "password": "$2a$10$dummyhashforadmin",
+      "is_blocked": false,
+      "created_at": "2023-10-27T10:00:00Z"
+    }
+  ],
+  "blocked_credentials": []
+}
