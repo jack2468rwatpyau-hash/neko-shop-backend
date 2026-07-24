@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Luffy Figure (Limited)",
+      "price": 35000,
+      "oldPrice": 45000,
+      "category": "figures",
+      "image": "https://picsum.photos/seed/luffy/400/400",
+      "desc": "Gear 5 figure, hand-painted resin, 18cm tall. Limited run of 500 pieces worldwide.",
+      "sizes": ["S", "M", "L"],
+      "colors": ["Red", "Black"]
+    },
+    {
+      "id": 2,
+      "name": "Zoro Katana Set",
+      "price": 52000,
+      "oldPrice": 60000,
+      "category": "figures",
+      "image": "https://picsum.photos/seed/zoro/400/400",
+      "desc": "Three-sword style display set with wooden stand. Collector's edition.",
+      "sizes": ["One Size"],
+      "colors": ["Black", "Silver"]
+    },
+    {
+      "id": 3,
+      "name": "Naruto Hoodie",
+      "price": 28000,
+      "oldPrice": 32000,
+      "category": "clothing",
+      "image": "https://picsum.photos/seed/naruto/400/400",
+      "desc": "Heavyweight cotton hoodie with embroidered leaf village emblem.",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Orange", "Black"]
+    },
+    {
+      "id": 4,
+      "name": "Totoro Keychain",
+      "price": 6500,
+      "oldPrice": 8000,
+      "category": "accessories",
+      "image": "https://picsum.photos/seed/totoro/400/400",
+      "desc": "Soft plush keychain, 8cm, perfect for bags and keys.",
+      "sizes": ["One Size"],
+      "colors": ["Gray"]
+    },
+    {
+      "id": 5,
+      "name": "Attack on Titan Jacket",
+      "price": 45000,
+      "oldPrice": 55000,
+      "category": "clothing",
+      "image": "https://picsum.photos/seed/aot/400/400",
+      "desc": "Survey Corps bomber jacket with embroidered wings of freedom.",
+      "sizes": ["M", "L", "XL"],
+      "colors": ["Green", "Black"]
+    },
+    {
+      "id": 6,
+      "name": "Chopper Plush",
+      "price": 18000,
+      "oldPrice": 22000,
+      "category": "accessories",
+      "image": "https://picsum.photos/seed/chopper/400/400",
+      "desc": "Large 30cm plush, super soft, embroidered details.",
+      "sizes": ["One Size"],
+      "colors": ["Pink"]
+    }
+  ],
+  "orders": [],
+  "users": [],
+  "settings": {
+    "kbz": "09 123 456 789",
+    "aya": "09 987 654 321",
+    "wave": "09 555 666 777"
+  }
+}
