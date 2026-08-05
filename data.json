@@ -1,0 +1,229 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Luffy Gear 5 Figure",
+      "price": 35000,
+      "oldPrice": 45000,
+      "image": "https://picsum.photos/seed/luffy/300/300",
+      "gallery": [
+        "https://picsum.photos/seed/luffy1/300/300",
+        "https://picsum.photos/seed/luffy2/300/300"
+      ],
+      "video": "",
+      "desc": "One Piece ထဲက Luffy ရဲ့ Gear 5 ပုံစံ PVC Figure။ လက်လုပ်အနုပညာ။",
+      "categories": ["Figures"],
+      "sizes": ["S", "M", "L"],
+      "colors": ["Red", "Black"],
+      "stock": 10,
+      "payment_type": "prepay",
+      "estimated_delivery": "၂-၄ ရက်",
+      "variant_prices": {
+        "S|Red": 35000,
+        "M|Red": 37000,
+        "L|Red": 39000,
+        "S|Black": 36000,
+        "M|Black": 38000,
+        "L|Black": 40000
+      },
+      "variant_images": {
+        "S|Red": ["https://picsum.photos/seed/luffy_s_red/300/300"],
+        "M|Red": ["https://picsum.photos/seed/luffy_m_red/300/300"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Zoro Sword Keychain",
+      "price": 12000,
+      "oldPrice": 15000,
+      "image": "https://picsum.photos/seed/zoro/300/300",
+      "gallery": [],
+      "video": "",
+      "desc": "Roronoa Zoro ရဲ့ ဓားသုံးစင်းပုံစံ Keychain။ သတ္တုပစ္စည်း။",
+      "categories": ["Keychains", "Accessories"],
+      "sizes": [],
+      "colors": ["Silver"],
+      "stock": 25,
+      "payment_type": "prepay",
+      "estimated_delivery": "၃-၅ ရက်",
+      "variant_prices": {},
+      "variant_images": {}
+    },
+    {
+      "id": 3,
+      "name": "Naruto Hoodie",
+      "price": 28000,
+      "oldPrice": 32000,
+      "image": "https://picsum.photos/seed/naruto/300/300",
+      "gallery": ["https://picsum.photos/seed/naruto1/300/300"],
+      "video": "",
+      "desc": "Naruto Shippuden ပုံနှိပ် Hoodie။ နွေးထွေးပြီး သက်တောင့်သက်သာရှိ။",
+      "categories": ["Hoodies", "Apparel"],
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Black", "Orange"],
+      "stock": 5,
+      "payment_type": "cod",
+      "estimated_delivery": "၅-၇ ရက်",
+      "variant_prices": {
+        "S|Black": 28000,
+        "M|Black": 30000,
+        "L|Black": 32000,
+        "XL|Black": 34000,
+        "S|Orange": 29000,
+        "M|Orange": 31000,
+        "L|Orange": 33000,
+        "XL|Orange": 35000
+      },
+      "variant_images": {
+        "M|Black": ["https://picsum.photos/seed/naruto_m_black/300/300"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Anime Poster Set (3 pcs)",
+      "price": 8000,
+      "oldPrice": 10000,
+      "image": "https://picsum.photos/seed/poster/300/300",
+      "gallery": [],
+      "video": "",
+      "desc": "Demon Slayer, Jujutsu Kaisen, Attack on Titan ပိုစတာ ၃ ခုပါအစုံ။",
+      "categories": ["Posters"],
+      "sizes": [],
+      "colors": [],
+      "stock": 20,
+      "payment_type": "prepay",
+      "estimated_delivery": "၂-၄ ရက်",
+      "variant_prices": {},
+      "variant_images": {}
+    },
+    {
+      "id": 5,
+      "name": "Pikachu Plushie (30cm)",
+      "price": 18000,
+      "oldPrice": 22000,
+      "image": "https://picsum.photos/seed/pikachu/300/300",
+      "gallery": ["https://picsum.photos/seed/pikachu1/300/300"],
+      "video": "",
+      "desc": "Pikachu ရုပ်သေး၊ အမွေးနူးနူး၊ အရွယ် ၃၀ စင်တီမီတာ။",
+      "categories": ["Plushies"],
+      "sizes": [],
+      "colors": ["Yellow"],
+      "stock": 8,
+      "payment_type": "cod",
+      "estimated_delivery": "၃-၆ ရက်",
+      "variant_prices": {},
+      "variant_images": {}
+    },
+    {
+      "id": 6,
+      "name": "Demon Slayer Mask",
+      "price": 15000,
+      "oldPrice": 18000,
+      "image": "https://picsum.photos/seed/mask/300/300",
+      "gallery": [],
+      "video": "",
+      "desc": "Tanjiro ပုံစံ Mask၊ ဝတ်ဆင်ရအဆင်ပြေ၊ အသက်ရှူလွယ်။",
+      "categories": ["Accessories"],
+      "sizes": ["One Size"],
+      "colors": ["Black", "Green"],
+      "stock": 12,
+      "payment_type": "prepay",
+      "estimated_delivery": "၂-၄ ရက်",
+      "variant_prices": {
+        "One Size|Black": 15000,
+        "One Size|Green": 16000
+      },
+      "variant_images": {}
+    },
+    {
+      "id": 7,
+      "name": "Jujutsu Kaisen T-shirt",
+      "price": 22000,
+      "oldPrice": 26000,
+      "image": "https://picsum.photos/seed/jjk/300/300",
+      "gallery": ["https://picsum.photos/seed/jjk1/300/300"],
+      "video": "",
+      "desc": "Gojo Satoru ပုံနှိပ် T‑shirt။ ချည်သား ၁၀၀%။",
+      "categories": ["Apparel"],
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["White", "Black"],
+      "stock": 7,
+      "payment_type": "prepay",
+      "estimated_delivery": "၃-၅ ရက်",
+      "variant_prices": {
+        "S|White": 22000,
+        "M|White": 23000,
+        "L|White": 24000,
+        "XL|White": 25000,
+        "S|Black": 22500,
+        "M|Black": 23500,
+        "L|Black": 24500,
+        "XL|Black": 25500
+      },
+      "variant_images": {}
+    },
+    {
+      "id": 8,
+      "name": "Manga Volume 1 (One Piece)",
+      "price": 5000,
+      "oldPrice": null,
+      "image": "https://picsum.photos/seed/manga/300/300",
+      "gallery": [],
+      "video": "",
+      "desc": "One Piece မန်ဂါ အတွဲ ၁။ မြန်မာဘာသာပြန်။",
+      "categories": ["Books"],
+      "sizes": [],
+      "colors": [],
+      "stock": 30,
+      "payment_type": "prepay",
+      "estimated_delivery": "၁-၃ ရက်",
+      "variant_prices": {},
+      "variant_images": {}
+    }
+  ],
+  "categories": [
+    "Figures",
+    "Hoodies",
+    "Keychains",
+    "Plushies",
+    "Posters",
+    "Accessories",
+    "Apparel",
+    "Books"
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "image": "https://picsum.photos/seed/banner1/800/300",
+      "link": "https://neko-shop.example.com/promo1"
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/seed/banner2/800/300",
+      "link": "https://neko-shop.example.com/promo2"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "name": "One Piece Opening - We Are!",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Naruto Shippuden Opening - Blue Bird",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    }
+  ],
+  "settings": {
+    "kbz": "09 123 456 789",
+    "kbz_name": "Neko Shop",
+    "aya": "09 987 654 321",
+    "aya_name": "Neko Shop",
+    "wave": "09 555 666 777",
+    "wave_name": "Neko Shop",
+    "service_fee": 500,
+    "purchase_tax_per_item": 200,
+    "trade_tax": 300
+  }
+}
